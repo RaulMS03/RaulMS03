@@ -73,7 +73,18 @@ EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO
   </div>
 </p>
 
-<img align="left" width="200px" src="https://camo.githubusercontent.com/1cff2bbc0e3694c5c1d3c4fb01cfacbbd27dc3c77c9a7031357f80e1bcd2db03/68747470733a2f2f632e74656e6f722e636f6d2f57334e56334e494c594d59414141416a2f616e6d2e676966" />
+<div align = "center">
+  <p>
+    🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
+  </p>
+</div>
 
+<div align = "left">
+  <img width="200px" src="https://camo.githubusercontent.com/1cff2bbc0e3694c5c1d3c4fb01cfacbbd27dc3c77c9a7031357f80e1bcd2db03/68747470733a2f2f632e74656e6f722e636f6d2f57334e56334e494c594d59414141416a2f616e6d2e676966" />
+</div>
+
+<div align = "center">
+  <img alt="Rafa" width="200px" src="https://static.wikia.nocookie.net/minecraft/images/6/6a/Axolotls_Swimming.gif/revision/latest?cb=20201219210623%22%3E" />
+</div>
 
 <img align="right" width="200px" src="https://camo.githubusercontent.com/3df0b2fda734bd6632492e5c0153c21aa7f9afad547b9f37900cf95c59398679/68747470733a2f2f7061312e6e61727669692e636f6d2f363934322f3230663762343666623463643862366661633862363465663237313833386134633835633161303472312d3530302d3530305f68712e676966" />
