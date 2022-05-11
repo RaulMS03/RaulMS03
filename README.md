@@ -5,3 +5,4 @@
 
 <img align="right" width="250px" src="https://img.nyakku.moe/profile/kinako.png" />
 
+<img align="left" width="250px" src="白狐.gif" />
