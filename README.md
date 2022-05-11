@@ -15,11 +15,9 @@
 <img align="right" width="450px" src="https://img.nyakku.moe/profile/kinako.png" />
 
 <p>
- OU’VE BEEN FREAKING HIT BY THE
-
-|^^^^^^^^^^^^](ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-| KAWAII TRUCK | ‘|”“”;.., ___.
-|_…_…______===|= _|__|…, ] |
+|^^^^^^^^^^^^](ﾉ◕ヮ◕)ﾉ*:･ﾟ✧<br>
+| KAWAII TRUCK | ‘|”“”;.., ___.<br>
+|_…_…______===|= _|__|…, ] |<br>
 ”(@ )’(@ )”“”“*|(@ )(@ )*****(@　　
 
 MOTHERFUCKER ONCE YOU'VE BEEN HIT, YOU HAVE TO HIT EIGHT FUCKING KAWAII ASS PEOPLE! IF YOU GET HIT AGAIN YOU’LL KNOW YOU'RE REALLY SO FUCKING KAWAII IT'S SO FUCKING SUGOI PEOPLE WILL PISS THEIR PANTS AND SHIT BRICKS AND YOU WILL BE THE MOTHERFUCKING LORD OF THE MOTHERFUCKING KAWAII! IF YOU BREAK THIS MOTHERFUCKING CHAIN, YOU'LL BE CURSED WITH UNKAWAIINESS AND SHITTINESS FOR 9000 YEARS SO PASS IT; HIT WHO EVER YOU THINK IS KAWAII.
