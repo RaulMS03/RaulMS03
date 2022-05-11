@@ -38,6 +38,10 @@ EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO
   .............◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤<br>
 </p>
 
+<p>
+  h-hewwo...owunce of weed pwease >///< arigato... dealer-kun puts weedie-chan in bong and inhales waaah!! (╯✧▽✧)╯ daisuki cannabis desu~! (^ ω ^ )uwaaa! weedie-chan i feel so kimochi!!(〃°ω°〃) hehe~ ur deep inside me now x3
+</p>
+
 
 <div align = "center">
   <p>
