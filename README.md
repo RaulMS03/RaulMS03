@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<img align="right" width="500px" src="https://img.nyakku.moe/profile/kinako.png" />
+<img align="right" width="450px" src="https://img.nyakku.moe/profile/kinako.png" />
 
 <p>
   ⣿⣿⣿⣿⡿⠟⠛⠋⠉⠉⠉⠉⠉⠛⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
