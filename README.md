@@ -80,7 +80,12 @@ EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO
 </div>
 
 <div>
-<img align = "left" width="200px" src="https://camo.githubusercontent.com/1cff2bbc0e3694c5c1d3c4fb01cfacbbd27dc3c77c9a7031357f80e1bcd2db03/68747470733a2f2f632e74656e6f722e636f6d2f57334e56334e494c594d59414141416a2f616e6d2e676966" /> <img align="center" width="200px" src="https://raw.githubusercontent.com/KawaiiZapic/KawaiiZapic/master/(.gif" /> <img align="right" width="200px" src="https://camo.githubusercontent.com/3df0b2fda734bd6632492e5c0153c21aa7f9afad547b9f37900cf95c59398679/68747470733a2f2f7061312e6e61727669692e636f6d2f363934322f3230663762343666623463643862366661633862363465663237313833386134633835633161303472312d3530302d3530305f68712e676966" />
+  <img align = "left" width="150px" src="https://camo.githubusercontent.com/1cff2bbc0e3694c5c1d3c4fb01cfacbbd27dc3c77c9a7031357f80e1bcd2db03/68747470733a2f2f632e74656e6f722e636f6d2f57334e56334e494c594d59414141416a2f616e6d2e676966" /> 
+  <img align = "center" width="150px" src="https://raw.githubusercontent.com/KawaiiZapic/KawaiiZapic/master/(.gif" />
+  <img align = "center" width="150px" src="https://avatars.githubusercontent.com/u/45678566?v=4" />
+  <img align = "center" width="150px" src="https://cdn.discordapp.com/attachments/946771000098439252/973343658231353384/Screenshot_20220503-073136_Instagram.jpg" />
+  <img align = "center" width="150px" src="https://camo.githubusercontent.com/ad460eb9d12ead366d2d8201d55a06274a198eca86d8ad91c568c06e818ae359/687474703a2f2f6d696e67746f6361742e616c65656e34322e636f6d2f656d7065726f72732f6f726967696e2e706e67" />
+  <img align = "right" width = "150px" src="https://camo.githubusercontent.com/3df0b2fda734bd6632492e5c0153c21aa7f9afad547b9f37900cf95c59398679/68747470733a2f2f7061312e6e61727669692e636f6d2f363934322f3230663762343666623463643862366661633862363465663237313833386134633835633161303472312d3530302d3530305f68712e676966" />
 </div>
 
 <div align = "center">
