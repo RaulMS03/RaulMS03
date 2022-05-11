@@ -31,6 +31,13 @@ MOTHERFUCKER ONCE YOU'VE BEEN HIT, YOU HAVE TO HIT EIGHT FUCKING KAWAII ASS PEOP
 EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunOko EHE TE NANDAYO PunO
 </p>
 
+<p>
+  █ AYAYA █ █ ]▄▄▄▄▄▄▄ 💥 NaM<br>
+  ..............▂▄▅█████████▅▄▃▂<br>
+  .............███████████████████]<br>
+  .............◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤<br>
+</p>
+
 
 <div align = "center">
   <p>
