@@ -45,7 +45,7 @@ MOTHERFUCKER ONCE YOU'VE BEEN HIT, YOU HAVE TO HIT EIGHT FUCKING KAWAII ASS PEOP
 
 <div align = "center">
   <p>
-    🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
+    🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
   </p>
 </div>
 
