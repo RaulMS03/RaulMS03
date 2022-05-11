@@ -1,5 +1,5 @@
 <p>
-  🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
+  🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
 </p>
 
 <img align="left" width="1000px" src="https://raw.githubusercontent.com/Shikanime/Shikanime/master/assets/github-header.png" />
