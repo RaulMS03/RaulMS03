@@ -1,26 +1,9 @@
-<div align = "center">
-  <p>
-    🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
-  </p>
-</div>
-
-<img align="left" width="1000px" src="https://raw.githubusercontent.com/Shikanime/Shikanime/master/assets/github-header.png" />
-
-<div align = "center">
-  <p>
-    🉐~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~💮~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~🉐
-  </p>
-</div>
-
-<img align="right" width="450px" src="https://img.nyakku.moe/profile/kinako.png" />
+<img align="right" width="550px" src="musashi3.png" />
 
 <p>
-|^^^^^^^^^^^^](ﾉ◕ヮ◕)ﾉ*:･ﾟ✧<br>
-| KAWAII TRUCK | ‘|”“”;.., ___.<br>
-|_…_…______===|= _|__|…, ] |<br>
-”(@ )’(@ )”“”“*|(@ )(@ )*****(@　　
-
-MOTHERFUCKER ONCE YOU'VE BEEN HIT, YOU HAVE TO HIT EIGHT FUCKING KAWAII ASS PEOPLE! IF YOU GET HIT AGAIN YOU’LL KNOW YOU'RE REALLY SO FUCKING KAWAII IT'S SO FUCKING SUGOI PEOPLE WILL PISS THEIR PANTS AND SHIT BRICKS AND YOU WILL BE THE MOTHERFUCKING LORD OF THE MOTHERFUCKING KAWAII! IF YOU BREAK THIS MOTHERFUCKING CHAIN, YOU'LL BE CURSED WITH UNKAWAIINESS AND SHITTINESS FOR 9000 YEARS SO PASS IT; HIT WHO EVER YOU THINK IS KAWAII.
+  &loz; Estudando em busca de oportunidades.
+  &loz;
+  &loz;
 </p>
 
 <p>
