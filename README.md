@@ -6,7 +6,7 @@
 
 <div style="display: inline_block" align="left">
   <p>
-    &loz; Estudando em busca de oportunidades.<br>
+    &loz; Estudando em busca da minha primeira oportunidade profissional.<br>
     &loz; Contato: raulsmascarenhas@gmail.com<br>
     &loz; Busco aumentar meu conhecimento em programação.&nbsp;Atualmente estou conhecendo e estudando algumas linguagens como: Java, JS, Html e Css3 para adentrar em outras linguagens.
   </p>
