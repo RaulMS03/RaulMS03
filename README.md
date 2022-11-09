@@ -3,8 +3,10 @@
 </div>
 <img align="center" width="1000px" src="musashi fundo.png" />
 
-<img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
-
+<div align="center">
+  <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
+</div>
+  
 <div style="display: inline_block" align="left">
   <p>
     &loz; Estudando em busca da minha primeira oportunidade profissional.<br>
