@@ -31,5 +31,20 @@
 ![Discord Presence](https://lanyard.cnrad.dev/api/473889758439931924?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Rising%20%F0%9F%92%AA%F0%9F%8F%BB)
   
 </div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raul-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+<hr>
+
+<div align="center">
+  <a href="https://github.com/RaulMS03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
   
 
