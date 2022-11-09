@@ -1,8 +1,6 @@
 <img align="center" width="1000px" src="musashi fundo.png" />
 
-<!--<div align="center">
-  <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg"/>
-<div>-->
+<img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
 
 <div style="display: inline_block" align="left">
   <p>
@@ -42,6 +40,10 @@
 <hr>
 
 <div align="center">
+  <h1>Mais Informações:</h1>
+</div>
+ 
+<div align="center">
   <a href="https://github.com/RaulMS03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -55,6 +57,12 @@
   <img alt="Raul-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaulMS03&theme=dracula"/>
   <img alt="Raul-Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=RaulMS03&theme=dracula"/>
 </div>
+  
+<hr>
+  
+<p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/RaulMS03/count.svg" />
+</p>  
 
   
 
