@@ -3,9 +3,9 @@
 </div>
 <img align="center" width="1000px" src="musashi fundo.png" />
 
-<div align="center">
+<!--<div align="center">
   <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
-</div>
+</div>-->
   
 <div style="display: inline_block" align="left">
   <p>
