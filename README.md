@@ -45,6 +45,16 @@
   <a href="https://github.com/RaulMS03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+<p align="center"> 
+    <img alt="Contribution-In-The-Last-Year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaulMS03&theme=dracula"/> 
+</p>
+  
+<div align="center">
+  <img alt="Raul-GitHub-Status" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaulMS03&theme=dracula"/>
+  <img alt="Raul-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaulMS03&theme=dracula"/>
+  <img alt="Raul-Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=RaulMS03&theme=dracula"/>
+</div>
 
   
 
