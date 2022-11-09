@@ -63,9 +63,11 @@
   
 <hr>
   
-<p align="center"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/RaulMS03/count.svg" />
-</p>  
+<div align="center"> 
+  <h3>Visitas ao perfil:</h3>
+  <img align="center" src="https://profile-counter.glitch.me/RaulMS03/count.svg" />
+  <img align="center" src="musashi3.png" />
+<div>  
 
   
 
