@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>Sobre Mim:</h1>
+</div>
 <img align="center" width="1000px" src="musashi fundo.png" />
 
 <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
@@ -40,7 +43,7 @@
 <hr>
 
 <div align="center">
-  <h1>Mais Informações:</h1>
+  <h2>Mais Informações:</h2>
 </div>
  
 <div align="center">
