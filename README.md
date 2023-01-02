@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sobre Mim:</h1>
 </div>
-<img align="center" width="1000px" src="musashi fundo.png" />
+<img align="center" width="1000px" src="rau2.png" />
 
 <!--<div align="center">
   <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
