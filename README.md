@@ -2,10 +2,6 @@
   <h1>Sobre Mim:</h1>
 </div>
 <img align="center" width="1000px" src="rau2.png" />
-
-<!--<div align="center">
-  <img alt="Raul-Snake-Contribution-Grid" src="https://github.com/RaulMS03/RaulMS03/blob/output/github-contribution-grid-snake.svg%22/%3E">
-</div>-->
   
 <div style="display: inline_block" align="left">
   <p>
@@ -30,8 +26,6 @@
 <a href="https://www.linkedin.com/in/raul-mascarenhas-89b034241" target="_blank">
     <img alt="Raul-Linkedin" height="35" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
-![Discord Presence](https://lanyard.cnrad.dev/api/473889758439931924?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Rising%20%F0%9F%92%AA%F0%9F%8F%BB)
   
 </div>
 
