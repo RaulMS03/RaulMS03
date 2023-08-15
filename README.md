@@ -54,7 +54,7 @@
 <div align="center">
   <img alt="Raul-GitHub-Status" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaulMS03&theme=dracula"/>
   <img alt="Raul-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaulMS03&theme=dracula"/>
-  <img alt="Raul-Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=RaulMS03&theme=dracula"/>
+
 </div>
   
 <hr>
