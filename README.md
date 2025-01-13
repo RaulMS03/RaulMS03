@@ -1,69 +1,175 @@
-<div align="center">
-  <h1>Sobre Mim:</h1>
-</div>
-<img align="center" width="1000px" src="rau2.png" />
-  
-<div style="display: inline_block" align="left">
-  <p>
-    &loz; Estudando em busca da minha primeira oportunidade profissional.<br>
-    &loz; Contato: raulsmascarenhas@gmail.com <br>
-    &loz; Busco aumentar meu conhecimento em programação.&nbsp;Atualmente estou conhecendo e estudando algumas linguagens como: Java, JS, Html e Css3 para adentrar em outras linguagens.
-  </p>
- </div>
+# 👨‍💻 Raul Mascarenhas
 
+**`Desenvolvedor FullStack`**
 
-<div align="center">
-   
-  
-<a href="https://instagram.com/raul._.ms" target="_blank">
-    <img alt="Raul-Instagram" height="35" widht="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-  
-<a href = "mailto:raulmascarenhasdev@gmail.com">
-    <img alt="Mail-to-Raul" height="35" widht="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-  
-<a href="https://www.linkedin.com/in/raul-mascarenhas-89b034241" target="_blank">
-    <img alt="Raul-Linkedin" height="35" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-</div>
+Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Carapicuíba. Sou apaixonado por tecnologia e estou sempre em busca das melhores soluções e inovações para aprimorar meus conhecimentos e contribuir com o desenvolvimento de projetos cada vez mais eficientes e criativos.
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raul-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raul-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raul-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-<hr>
-
-<div align="center">
-  <h2>Mais Informações:</h2>
-</div>
- 
-<div align="center">
-  <a href="https://github.com/RaulMS03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-<p align="center"> 
-    <img alt="Contribution-In-The-Last-Year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaulMS03&theme=dracula"/> 
+<p align="left">
+    <a href="https://github.com/RaulMS03?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/RaulMS03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/RaulMS03?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/RaulMS03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href = "mailto:raulsmascarenhas@gmail.com">
+        <img 
+            alt="Mail-to-Raul"
+            title="Entre em contato"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" 
+            target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/raul-mascarenhas-89b034241" target="_blank">
+        <img 
+            alt="Raul-Linkedin" 
+            title="Me siga no Linkedin"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            target="_blank">
+    </a> 
 </p>
-  
-<div align="center">
-  <img alt="Raul-GitHub-Status" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaulMS03&theme=dracula"/>
-  <img alt="Raul-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaulMS03&theme=dracula"/>
 
-</div>
-  
-<hr>
-  
-<div align="center"> 
-  <h3>Visitas ao perfil:</h3>
-  <img align="center" src="https://profile-counter.glitch.me/RaulMS03/count.svg" />
-  <img align="center" src="musashi3.png" />
-<div>  
+---
 
-  
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Golang"
+    title="Golang" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NestJs"
+    title="NestJs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
