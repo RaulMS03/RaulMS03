@@ -154,6 +154,7 @@ Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando An
 <br/>
 <br/>
 
+---
 ### 📊 Estatísticas
 
 <p>
