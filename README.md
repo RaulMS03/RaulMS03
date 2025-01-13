@@ -1,4 +1,4 @@
-# 👨‍💻 Raul Mascarenhas
+# 👨🏽‍💻 Raul Mascarenhas
 
 **`Desenvolvedor FullStack`**
 
