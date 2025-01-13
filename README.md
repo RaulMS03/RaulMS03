@@ -19,20 +19,6 @@ Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando An
             src="https://custom-icon-badges.demolab.com/github/followers/RaulMS03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href = "mailto:raulsmascarenhas@gmail.com">
-        <img 
-            alt="Mail-to-Raul"
-            title="Entre em contato"
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" 
-            target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/raul-mascarenhas-89b034241" target="_blank">
-        <img 
-            alt="Raul-Linkedin" 
-            title="Me siga no Linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-            target="_blank">
-    </a> 
 </p>
 
 ---
@@ -139,19 +125,19 @@ Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando An
 <br/>
 
 ### 📊 Estatísticas
-
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count7" 
-/>
-
+<p>
+    <img 
+        align="left"
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left"
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count7" 
+    />
+</p>
 
