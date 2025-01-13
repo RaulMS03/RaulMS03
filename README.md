@@ -155,5 +155,4 @@ Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando An
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
