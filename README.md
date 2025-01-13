@@ -149,9 +149,9 @@ Meu nome é Raul Mascarenhas Souza, tenho 21 anos. Atualmente, estou cursando An
     src="https://github-readme-stats.vercel.app/api?username=RaulMS03&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulMS03&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
